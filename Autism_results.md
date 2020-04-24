@@ -25,7 +25,7 @@ We further divided variants by their inheritance pattern:
 - Thus, on average, de novo mutations are exposed to less selective pressure and could mediate substantial risk for ASD. <br>
 - This expectation is borne out by the substantially higher proportions of all three PTV tiers and the two most severe missense variant tiers in de novo compared with inherited variants
 
-<img src='img2/bauxbam_img1.jpg'>
+<img src='img/bauxbam_img1.jpg'>
 
 **Figure 1. Distribution of Rare Autosomal Protein-Coding Variants in ASD Cases and Controls** <br>
 (A) The proportion of rare autosomal genetic variants split by predicted functional consequences, represented by color, is displayed for family-based (split into denovo and inherited variants) and case-control data. PTVs and missense variants are split into three tiers of predicted functional severity, represented by shade, based on the pLI and MPC metrics, respectively.<br>
@@ -51,7 +51,7 @@ Statistical tests: (B) and (C), binomial exact test (BET) for most contrasts; ex
 
 
 
-<img src=img2/bauxbam_img2.jpg>
+<img src=img/bauxbam_img2.jpg>
 
 **Figure 2. Gene Discovery in the ASC Cohort** <br>
 (A) WES data from 35,584 samples are entered into a Bayesian analysis framework (TADA) that incorporates pLI score for PTVs and MPC score for missense variants.<br>
@@ -62,7 +62,7 @@ Statistical tests: (B) and (C), binomial exact test (BET) for most contrasts; ex
 
 ### Genetic Characterization of ASD Genes
 
-<img src=img2/bauxbam_img3.jpg>
+<img src=img/bauxbam_img3.jpg>
 
 **Figure 3. Genetic Characterization of ASD Genes** <br>
 (A) Count of PTVs versus missense variants (MPC >= 1) in cases for each ASD-associated gene (red points, selected genes labeled). These counts reflect the data used by TADA for association analysis: de novo and case-control data for PTVs; de novo only for missense.
@@ -201,7 +201,7 @@ p = 1.00).
 Measures of functional severity assessing evolutionary constraint against deleterious genetic variation, such as the
 ‘‘probability of loss-of-function intolerance’’ (pLI) score (Kosmicki et al., 2017; Lek et al., 2016) and the integrated ‘‘missense badness, PolyPhen-2, constraint’’ (MPC) score (Samocha et al., 2017), can further delineate variant classes with higher burden
 
-<img src='img2/bauxbam_img5.jpg'>
+<img src='img/bauxbam_img5.jpg'>
 
 
 
